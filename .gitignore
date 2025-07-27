@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.log
+*.db
+*.DS_Store
+skipped_apps.txt
+apkpure_apks_final/
+
