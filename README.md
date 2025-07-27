@@ -24,6 +24,7 @@ A powerful, extensible Python-based crawler that downloads APK and XAPK files fr
 
 ## ⚙️ Setup Instructions
 
+🔹 Step 1: Clone the Repository
 
 ```bash
 🔹 Step 1: Clone the Repository
