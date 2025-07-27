@@ -24,15 +24,14 @@ A powerful, extensible Python-based crawler that downloads APK and XAPK files fr
 
 ## ⚙️ Setup Instructions
 
-### 🔹 Step 1: Clone the Repository
 
 ```bash
-### 🔹 Step 1: Clone the Repository
+🔹 Step 1: Clone the Repository
 
 git clone https://github.com/shafiqul92/apkpure-app_crawler.git
 cd apkpure-app_crawler
 
-### 🔹 Step 2: Create a Virtual Environment (Optional but Recommended)
+🔹 Step 2: Create a Virtual Environment (Optional but Recommended)
 
 python3 -m venv venv
 source venv/bin/activate
