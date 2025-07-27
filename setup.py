@@ -4,8 +4,8 @@ setup(
     name='apkpurecrawler',
     version='1.0.0',
     description='Python crawler for APKPure that downloads APK/XAPK files and extracts detailed metadata into MongoDB',
-    author='MD Shafiqul Islam',
-    author_email='your.email@example.com',
+    author='Md Shafiqul Islam',
+    author_email='shafiqul@iastate.edu',
     packages=find_packages(),
     install_requires=[
         'requests',
