@@ -6,18 +6,16 @@ A powerful, extensible Python-based crawler that downloads APK and XAPK files fr
 
 ## 📌 Features
 
-- ✅ Crawls apps from all major APKPure categories
-- ✅ Downloads both `.apk` and `.xapk` formats
-- ✅ Skips previously downloaded apps (no duplicates)
-- ✅ Extracts rich metadata:
+- Crawls apps from all major APKPure categories
+- Downloads both `.apk` and `.xapk` formats
+- Skips previously downloaded apps (no duplicates)
+- Extracts rich metadata:
   - App title, package name, version
   - Architecture & required Android version
   - Signature, SHA1 hash, download count
   - File size, last update date
-  - App permissions (when available)
-- ✅ Automatically creates MongoDB documents
-- ✅ Handles special version formatting (e.g., `1416/1.0.0.2025063004`)
-- ✅ Logs skipped or failed downloads to a text file
+- Automatically creates MongoDB documents
+-  Logs skipped or failed downloads to a text file
 
 ---
 
