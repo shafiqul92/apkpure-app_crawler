@@ -14,7 +14,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'apkpure-crawl=scripts.apkpure_crawl',
+            'apkpure-crawl=apkpurecrawler.cli:main',
         ],
     },
     include_package_data=True,
